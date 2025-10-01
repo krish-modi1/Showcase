@@ -1,7 +1,7 @@
 autopep8==1.4.4
 certifi==2025.6.15
 chardet==3.0.4
-Django==4.2.22
+Django==4.2.25
 django-environ==0.4.5
 django-filter==25.1
 django-filter==25.1
